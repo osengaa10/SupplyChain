@@ -1,0 +1,23 @@
+{
+  "name": "SupplyChain",
+  "version": "1.0.0",
+  "description": "Supply chain application using the Ethereum blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osengaa10/SupplyChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osengaa10/SupplyChain/issues"
+  },
+  "homepage": "https://github.com/osengaa10/SupplyChain#readme",
+  "dependencies": {
+    "web3": "^1.5.0"
+  }
+}
